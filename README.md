@@ -1,6 +1,6 @@
-# flutter_training
+# flutter_training_demo
 
-A new Flutter application.
+It contains the basic flutter widgets implementation which helpful for getting started.
 
 ## Getting Started
 
